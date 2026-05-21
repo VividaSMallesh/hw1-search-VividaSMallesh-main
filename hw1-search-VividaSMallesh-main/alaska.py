@@ -1,6 +1,6 @@
 """
 Alaska Airlines Flight Path Finder
-Author: Vivida Siddegowda Mallesh
+Author: Vivida Siddegowda Mallesh.
 Date: 05-20-2026
 
 This program loads Alaska Airlines flight data and airport locations,
